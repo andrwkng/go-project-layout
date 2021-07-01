@@ -1,0 +1,4 @@
+# platform/
+
+## Logging
+- cant log
